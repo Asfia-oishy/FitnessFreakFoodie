@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921003818644",
+    "firebase_url": "https://fitness-freak-fd17d-default-rtdb.firebaseio.com",
+    "project_id": "fitness-freak-fd17d",
+    "storage_bucket": "fitness-freak-fd17d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921003818644:android:5ba2b650bb61a912bebe81",
+        "android_client_info": {
+          "package_name": "com.akapps.fitnessfreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921003818644-bqdb86ghv8j5pq34dkcc5ngrjebk4r57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQzzHEDQkrZLIQGrbcI2zkYEUyEcd6Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921003818644-bqdb86ghv8j5pq34dkcc5ngrjebk4r57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
